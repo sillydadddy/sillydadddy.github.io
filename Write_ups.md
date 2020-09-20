@@ -1,9 +1,8 @@
 ---
-title: Infosec AMA
-layout: categories 
+title: Write Ups
+layout: collection
 permalink: /write-ups/
-#entries_layout: grid
+collection: Write_ups
 ---
 
-
-This is the writeups   category page 
+Sample document listing for the collection `_BugBounty_Notes`.

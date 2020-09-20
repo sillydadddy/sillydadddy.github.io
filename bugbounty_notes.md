@@ -1,8 +1,8 @@
 ---
-title: Bugbounty Notes
-layout: categories 
+title: BugBounty_Notes
+layout: collection
 permalink: /bugbounty_notes_checklists/
-#entries_layout: grid
+collection: BugBounty_Notes
 ---
 
-This is the bubounty notes  category page 
+Sample document listing for the collection `_BugBounty_Notes`.

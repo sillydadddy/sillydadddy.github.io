@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Infosec AMA with Vishnuraj"
 date:   2020-09-19 18:04:09 +0530
-categories: Infosec_AMA
 ---
 
 # AMA with Vishnuraj(@k_v0)

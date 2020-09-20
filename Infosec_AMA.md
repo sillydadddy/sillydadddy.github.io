@@ -1,8 +1,8 @@
 ---
 title: Infosec AMA
-layout: categories 
+layout: collection
 permalink: /Infosec_AMA/
-#entries_layout: grid
+collection: Infosec_AMA
 ---
 
-This is the infosec category page 
+Sample document listing for the collection `AMA`.
