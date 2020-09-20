@@ -1,6 +1,6 @@
 ---
 layout: categories
-title:  "AMA with siLLyDaddy"
+title:  "AMA with Vishnuraj"
 date:   2020-09-19 18:04:09 +0530
 categories: AMA
 ---
