@@ -128,3 +128,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+    
+copyright: "This site is made with <3 by siLLyDaddy"
