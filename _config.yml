@@ -119,12 +119,12 @@ author:
 
 # Footer Links
 footer_links:
-     - title: Twitter
-      url: https://twitter.com/sillydadddy
-      icon: fab fa-twitter-square
-    - title: GitHub
-      url: https://github.com/sillydadddy
-      icon: fab fa-github-square
+  - title: Twitter
+    url: https://twitter.com/sillydadddy
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/sillydadddy
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
