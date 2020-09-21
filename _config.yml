@@ -57,7 +57,7 @@ paginate_path: /page:num/
 search_full_content: true
 
 # Taxonomy pages
-category_archive_path: "/#"
+category_archive_path: "/"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.

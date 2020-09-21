@@ -1,12 +1,12 @@
 ---
 title: BugBounty Guides
-permalink: /bugbounty_notes_checklists/
+permalink: /bugbounty-guides/
 show_excerpts: true
 entries_layout: grid
 ---
 
 <ul>
-  {% for post in site.categories.BugBounty_Guides %}
+  {% for post in site.categories.bugbounty-guides %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

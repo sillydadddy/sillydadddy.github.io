@@ -7,7 +7,7 @@ entries_layout: grid
 
 
 <ul>
-  {% for post in site.categories.Write_up %}
+  {% for post in site.categories.write-ups %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
