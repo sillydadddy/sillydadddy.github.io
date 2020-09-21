@@ -4,7 +4,8 @@ title:  "Infosec/Bugbounty  AMA with Aditya Shende"
 categories: infosec-bugbounty-ama
 ---
 
-# AMA with Aditya Shende(@ADITYASHENDE17)
+# AMA with [Aditya Shende](https://www.twitter.com/ADITYASHENDE17)
+Aditya Shende is a Computer science student .Top 100 in Bugcrowd !
 
 <br>
 
@@ -172,7 +173,7 @@ Thanks in advance
 
 <br>
  
- # Tools for Sensitive Information ℹ
+# Tools for Sensitive Information ℹ
 
 - In Terms of Content Discovery, 
 What Tools Should We Use To Enumerate Paths, Parameters, Endpoints etc.
@@ -278,7 +279,7 @@ Any word list you use for manually  search ( or tool for automation) in source c
 
 <br>
 
-# Admire person 🦸‍♂️
+# Admiration 🦸‍♂️
 
 - Whom did you admire when you were at the learning stage? How long did it take to be where you are now? And mention one of your favourite books if you have ever read! Thanks!
 
