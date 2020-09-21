@@ -57,7 +57,7 @@ paginate_path: /page:num/
 search_full_content: true
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
+category_archive_path: "/#"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.
@@ -78,19 +78,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-# Collections
-collections:
-  Infosec_AMA:
-    output: true
-    permalink: /:collection/:path/
-    
-  BugBounty_Notes:
-    output: true
-    permalink: /:collection/:path/
 
-  Write_ups:
-    output: true
-    permalink: /:collection/:path/    
+    
 
 # Front Matter Defaults
 defaults:
@@ -102,32 +91,7 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Infosec_AMA defaults
-  - scope:
-      path: "_Infosec_AMA"
-      type: Infosec_AMA
-    values:
-      layout: post
-      comments: true
-      share: true
 
-  # BugBounty_Notes defaults
-  - scope:
-      path: "_BugBounty_Notes"
-      type: BugBounty_Notes
-    values:
-      layout: post
-      comments: true
-      share: true
-      
-  # Write_ups defaults
-  - scope:
-      path: "_Write_ups"
-      type: Write_ups
-    values:
-      layout: post
-      comments: true
-      share: true
       
 # Site Author
 author:

@@ -2,9 +2,9 @@
   url: /
   
 - title: Infosec AMA
-  url: /Infosec_AMA/
+  url: /infosec_bugbounty_ama/
 
-- title: Bugbounty Notes/Checklists
+- title: Bugbounty Guides
   url: /bugbounty_notes_checklists/
   
 - title: Write-ups

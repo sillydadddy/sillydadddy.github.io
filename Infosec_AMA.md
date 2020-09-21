@@ -1,8 +1,17 @@
 ---
 title: Infosec AMA
-layout: collection
-permalink: /Infosec_AMA/
-collection: Infosec_AMA
+permalink: /infosec_bugbounty_ama/
+show_excerpts: true
+entries_layout: grid
 ---
 
-Sample document listing for the collection `AMA`.
+
+
+
+<ul>
+  {% for post in site.categories.Infosec_AMA %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

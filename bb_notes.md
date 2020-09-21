@@ -1,13 +1,12 @@
 ---
-title: Write-ups
-permalink: /write-ups/
+title: BugBounty Guides
+permalink: /bugbounty_notes_checklists/
 show_excerpts: true
 entries_layout: grid
 ---
 
-
 <ul>
-  {% for post in site.categories.Write_up %}
+  {% for post in site.categories.BugBounty_Guides %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
