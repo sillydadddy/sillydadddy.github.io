@@ -3,8 +3,7 @@ layout: post
 title:  "Infosec/Bugbounty  AMA with AnugrahSR"
 categories: infosec-bugbounty-ama
 featured-image: /images/AR.jpg
-image:
-  thumbnail: /images/AR.jpg
+thumbnail: /images/AR.jpg
 ---
 
 # AMA with [AnugrahSR](https://twitter.com/cyph3r_asr)
