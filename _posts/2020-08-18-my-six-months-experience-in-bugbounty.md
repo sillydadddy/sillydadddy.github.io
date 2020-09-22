@@ -4,8 +4,11 @@ title:  "My 6 months experience as a Bugbounty Hunter"
 categories: write-ups
 ---
 
+
 # My first 6 months experience as a Bug Bounty Hunter
 <br>
+
+![image](/images/writeup.jpeg)
 
 **Hi all <br> I completed 6 months in Bug Bounty Hunting .I am sharing what I have experienced and learning during these initial months .
 When i say “you “ in this article its mostly pointed towards me .I don’t mean to direct you to what you should/shouldn’t do .Here “you” means “I” .And kindly pardon for my bad english .**
