@@ -2,12 +2,9 @@
 layout: post
 title:  "Infosec/Bugbounty  AMA with AnugrahSR"
 categories: infosec-bugbounty-ama
+thumbnail: "/images/AR.jpg"
 ---
-{% if page.image %}
-  <meta property="og:image" content="/images/AR.jpg">
-{% else %}
-  <meta property="og:image" content="/images/AR.jpg">
-{% endif %}
+
 
 # AMA with [AnugrahSR](https://twitter.com/cyph3r_asr)
 
