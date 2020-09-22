@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "My 6 months experience as a Bugbounty Hunter"
+categories: write-ups
+---
+
 # My first 6 months experience as a Bug Bounty Hunter
 <br>
 
