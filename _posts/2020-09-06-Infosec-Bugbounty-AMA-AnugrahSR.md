@@ -4,7 +4,7 @@ title:  "Infosec/Bugbounty  AMA with AnugrahSR"
 categories: infosec-bugbounty-ama
 image:
   feature: /images/AR.jpg
-  thumb: /images/AR.jpg
+  thumbnail: /images/AR.jpg
 ---
 
 # AMA with [AnugrahSR](https://twitter.com/cyph3r_asr)
