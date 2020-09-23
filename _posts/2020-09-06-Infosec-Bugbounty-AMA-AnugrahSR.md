@@ -6,7 +6,8 @@ categories: infosec-bugbounty-ama
 
 # AMA with [AnugrahSR](https://twitter.com/cyph3r_asr)
 
-![image](/images/AR.jpg)
+![](/images/AR.jpg=250x100)
+
 
 He is a very hard working beginner in #bugbounty , He just finished #100daystolearnandimprove, Lets learn what a beginner learnt in 100 days.
 <br>
