@@ -3,7 +3,7 @@ layout: post
 title:  "Infosec/Bugbounty  AMA with Brutelogic"
 categories: infosec-bugbounty-ama
 image:
-  path: /images/brute.jpg
+  path: /images/brute.JPG
 ---
 
 
@@ -205,7 +205,7 @@ thanks
 
 <br>
 
-# Admire Person 🦸‍♂️
+# Admiration 🦸‍♂️
 
 - Whom did you admire when you were at the learning stage? How long did it take to be where you are now? Thanks.
 
