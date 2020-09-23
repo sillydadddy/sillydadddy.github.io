@@ -2,6 +2,8 @@
 layout: post
 title:  "Infosec/Bugbounty  AMA with Brutelogic"
 categories: infosec-bugbounty-ama
+image:
+  path: /images/brute.jpg
 ---
 
 
