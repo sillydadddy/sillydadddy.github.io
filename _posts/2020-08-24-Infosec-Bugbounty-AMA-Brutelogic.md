@@ -10,6 +10,8 @@ categories: infosec-bugbounty-ama
 
 <br>
 
+Brutelogic aka Rodolfo Assis ,  is known for his  awesome research in the field of Cross site  Scripting (XSS) . He has been in the infosec industry for  more than a decade .
+
 # About BruteLogic 😎  And His XSS work's 💪
 
 - How do you stay awesome?
