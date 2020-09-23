@@ -9,7 +9,6 @@ image:
 
 # AMA with [AnugrahSR](https://twitter.com/cyph3r_asr)
 
-![image](/images/AR.jpg)
 
 He is a very hard working beginner in #bugbounty , He just finished #100daystolearnandimprove, Lets learn what a beginner learnt in 100 days.
 <br>
