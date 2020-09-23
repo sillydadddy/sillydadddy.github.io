@@ -2,8 +2,12 @@
 layout: post
 title:  "Infosec/Bugbounty  AMA with Brutelogic"
 categories: infosec-bugbounty-ama
----
 
+author:
+  name:Chandu
+  twitter:[Justdoit__9](https://twitter.com/Justdoit__9)
+  picture:images/chandu.jpg
+--- 
 
 
 # AMA with [Brutelogic](https://twitter.com/brutelogic)
