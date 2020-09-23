@@ -7,6 +7,7 @@ author:
   name: Chandu
   twitter: Justdoit__9
   picture: images/chandu.jpg
+  links: true
 --- 
 
 
