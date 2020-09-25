@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infosec/Bugbounty  AMA with Brutelogic"
+title:  "Infosec Bugbounty  AMA with Brutelogic"
 categories: infosec-bugbounty-ama
 
 author:
