@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infosec/Bugbounty  AMA with Aditya Shende"
+title:  "Infosec Bugbounty  AMA with Aditya Shende"
 categories: infosec-bugbounty-ama
 ---
 
