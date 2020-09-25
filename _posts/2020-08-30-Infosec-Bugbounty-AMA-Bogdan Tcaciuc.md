@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infosec/Bugbounty  AMA with Bogdan Tcaciuc"
+title:  "Infosec Bugbounty  AMA with Bogdan Tcaciuc"
 categories: infosec-bugbounty-ama
 ---
 
