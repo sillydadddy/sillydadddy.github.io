@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infosec/Bugbounty  AMA with Avinash Jain"
+title:  "Infosec Bugbounty  AMA with Avinash Jain"
 categories: infosec-bugbounty-ama
 ---
 
@@ -71,7 +71,7 @@ categories: infosec-bugbounty-ama
 
 <br>
    
- # Tips for Beginners 🔰
+# Tips for Beginners 🔰
  
 - How worthy is it to learn bug bounties nowadays? As you know there are tons of experienced researchers whom are actively testing all programs. If it is still worthy then what should be the strategy to become a successful bug bounty hunter?
   

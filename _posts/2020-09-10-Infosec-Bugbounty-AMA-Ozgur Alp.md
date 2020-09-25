@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infosec/Bugbounty  AMA with Ozgur Alp"
+title:  "Infosec Bugbounty  AMA with Ozgur Alp"
 categories: infosec-bugbounty-ama
 ---
 
@@ -22,6 +22,7 @@ categories: infosec-bugbounty-ama
 - your fav tools
   
     - ***@Burp_Suite and @Google are my favorite tools.***
+
 <br>
 
 -  do you use any automation in your findings? 
@@ -140,6 +141,7 @@ Do you use automation ?
 - How do you manage learning time and hunting time Example like 4 days reading ( to stay up to date), 3 days hunting
  
   - ***1 hour reading twitter/blogs every day after I wake up & before starting working on weekdays. Prefer splitting into all days rather than having "learning days".***
+
 <br>
 
 - Is javascript Python Go etc language is necessary to bug hunting ?
