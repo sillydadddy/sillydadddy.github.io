@@ -3,8 +3,9 @@ layout: post
 title:  "Infosec Bugbounty  AMA with Debangshu kundu"
 categories: infosec-bugbounty-ama
 image: "/images/DK.jpg" 
-excerpt: true
+excerpt: "AMA with Debangshu Kundu who is a 16 year old Bugbounty Hunter "
 ---
+
 # AMA with [Debangshu_kundu](https://twitter.com/debangshu_kundu)
 
 <br>
