@@ -199,7 +199,7 @@ Check when the last report was resolved or try out RDPs. Turn on notifications f
 
 <br>
 
-- What is your process for moving from a dump of recon data to few dozen endpoints which look interesting ?Am i suppossed to know (or i can learn) how to  see through list of  [functions|Parameters|Url] &pick prob vuln ones Or is this just an experience thing that i can't learn
+- What is your process for moving from a dump of recon data to few dozen endpoints which look interesting ?Am i suppossed to know (or i can learn) how to  see through list of  functions or Parameters or Url &pick prob vuln ones Or is this just an experience thing that i can't learn
   
   - ***Yeah, there is experience involved too but you'll be good to go if you can simply google! Use httpscreenshot for mass-screenshotting of endpoints.Well my focus will be on 200 OK endpoints with unique content-length. Google is the most powerful tool out there, you can simply Google the endpoint you found to know about it. If you have problem in that, fingerprint the technologies and search docs! Might prove useful.***
 
