@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infosec Bugbounty  AMA with Debangshu kundu"
+title:  "Infosec Bugbounty  AMA with Debangshu Kundu"
 categories: infosec-bugbounty-ama
 image: "/images/DK.jpg" 
 thumbnail: "/images/DK.jpg" 
