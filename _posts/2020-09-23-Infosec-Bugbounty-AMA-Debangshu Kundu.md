@@ -3,7 +3,7 @@ layout: post
 title:  "Infosec Bugbounty  AMA with Debangshu kundu"
 categories: infosec-bugbounty-ama
 image:
-  path: /images/DK.jpg
+  path: "/images/DK.jpg" 
 ---
 
 # AMA with [Debangshu_kundu](https://twitter.com/debangshu_kundu)
