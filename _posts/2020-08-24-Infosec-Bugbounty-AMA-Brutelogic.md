@@ -11,7 +11,7 @@ author:
 --- 
 
 
-# AMA with [Brutelogic](https://twitter.com/brutelogic)
+# AMA  with [Brutelogic](https://twitter.com/brutelogic)
 
 <br>
 
