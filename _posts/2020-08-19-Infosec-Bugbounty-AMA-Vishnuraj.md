@@ -2,6 +2,7 @@
 layout: post
 title:  "Infosec Bugbounty  AMA with Vishnuraj"
 categories: infosec-bugbounty-ama
+excerpt : "AMA with Vishnuraj .Top 25 in Bugcrowd"
 ---
 
 
