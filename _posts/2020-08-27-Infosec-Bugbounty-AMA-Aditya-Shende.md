@@ -2,6 +2,7 @@
 layout: post
 title:  "Infosec Bugbounty  AMA with Aditya Shende"
 categories: infosec-bugbounty-ama
+excerpt: "Aditya Shende is a Computer science student .Top 100 in Bugcrowd !"
 ---
 
 # AMA with [Aditya Shende](https://www.twitter.com/ADITYASHENDE17)
