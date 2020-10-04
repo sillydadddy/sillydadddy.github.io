@@ -2,6 +2,7 @@
 layout: post
 title:  "Spend more time doing recon, you’ll find more BUGS"
 categories: write-ups
+excerpt: "Bugbounty write up on how spending more time in Recon helps ! "
 
 author:
   name: Vedant Tekale
