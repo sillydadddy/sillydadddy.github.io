@@ -3,4 +3,10 @@
 Chandu:
   name: "Chandu"
   picture: "images/chandu.jpg"
+   twitter: Justdoit__9
+  links:
+    - title: Twitter
+      url: https://twitter.com/Justdoit__9
+      icon: fab fa-twitter-square
+   
 
