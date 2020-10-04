@@ -7,7 +7,7 @@ excerpt: "Bugbounty write up on idor im my college  ! "
 author:
   name: Sandeep Krishna
   twitter: MadMaxx
-  picture: images/Madmaxx.jpg
+  picture: images/Madmaxx.jpeg
   links:
     - title: Twitter
       url: https://twitter.com/0xCCFFF
