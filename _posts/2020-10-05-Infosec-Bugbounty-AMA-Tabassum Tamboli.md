@@ -2,6 +2,7 @@
 layout: post
 title:  "Infosec Bugbounty AMA with Tabassum Tamboli"
 categories: infosec-bugbounty-ama
+excerpt: AMA with Tabassum Tamboli
 ---
 # AMA with [Tabassum Tamboli](https://twitter.com/Tabnexa)
 
