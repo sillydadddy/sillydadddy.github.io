@@ -9,7 +9,7 @@ categories: infosec-bugbounty-ama
 
  - How much time did it take to find ur first bug what was it and any stater tips for beginners
 
-   -***In early phase I found many bugs on non rdp sites. 1st paid bug worth 100$ after 10 months. Don’t go for dollars, Try to learn command line and understand tools how they work. Then go for understanding application.***
+   - ***In early phase I found many bugs on non rdp sites. 1st paid bug worth 100$ after 10 months. Don’t go for dollars, Try to learn command line and understand tools how they work. Then go for understanding application.***
 
 <br>
 
@@ -51,8 +51,7 @@ And any weird bug which you paid for it?
 
  - What was the most difficult phase while getting into cybersec
 
-   - ***People used to show no respect to not only me but also for other girls too in infosec community. They still think all girls used stop scooty using legs
-   Face with tears of joy
+   - ***People used to show no respect to not only me but also for other girls too in infosec community. They still think all girls used stop scooty using legs 😂
    .I don’t care about it. I love what I do.***
 
 <br>
@@ -216,8 +215,3 @@ if a target have a firewall which bugs are worth finding according to you?
 
     - ***Request body exploitation is better to understand and observe it. Or else try to change content type. I got xxe for 3 times only. So that’s what I know.***
 
-<br>
-
- - 
-
-   - ******
