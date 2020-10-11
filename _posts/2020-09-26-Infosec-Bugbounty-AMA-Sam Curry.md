@@ -2,6 +2,7 @@
 layout: post
 title:  "Infosec Bugbounty AMA with Sam Curry"
 categories: infosec-bugbounty-ama
+excerpt: " AMA with Sam Curry "
 ---
 # AMA with [Sam Curry](https://twitter.com/samwcyo)
 
