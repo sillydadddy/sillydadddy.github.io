@@ -151,6 +151,7 @@ Can you share your recon methodology
 <br>
 
  - Any suggestions that you would like to give yourself earlier ?
+ 
    - ***Mostly just understanding how the program operates from the other side of things. I used to naively think that what I was submitting was the most important thing they saw that day, but looking back, it most definitely wasn't. Triage is hard. Programs are hard to run.***
 
 <br>
