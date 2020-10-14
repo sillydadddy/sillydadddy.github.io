@@ -2,8 +2,6 @@
 layout: post
 title:  "Infosec Bugbounty  AMA with Ashish Kunwar"
 categories: infosec-bugbounty-ama
-image:
-  path: /images/DOrker.jfif
 ---
 
 # AMA with [Ashish Kunwar](https://twitter.com/@D0rkerDevil)
