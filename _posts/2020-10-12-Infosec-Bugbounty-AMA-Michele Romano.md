@@ -43,7 +43,7 @@ How do you take care of your mental health? When did you start hacking? Favourit
 
  - what motivates when you get duplicates..
 
-    - ***Duplicate means I was on the right road but someone else had already reported the issue, so I reached my goal (challenge myself). Mostly I don't mind too much if I get a duplicate (but I would prefer anyway to be the first one to report a issue of cours) and try to find issues -> which can be chained to the one I got duplicate of so I can get anyway a bonus/valid report :)***
+    - ***Duplicate means I was on the right road but someone else had already reported the issue, so I reached my goal (challenge myself). Mostly I don't mind too much if I get a duplicate (but I would prefer anyway to be the first one to report a issue of course) and try to find issues -> which can be chained to the one I got duplicate of so I can get anyway a bonus/valid report :)***
 
 <br>
 
@@ -129,11 +129,11 @@ In the beginning of your journey what motivated you the most to become successfu
  <br>
 
  - What was your biggest bounty till now?
- Elaborate about your bugbounty setup(e.g. toolset, checklist, note kipping, vps etc)
+ Elaborate about your bugbounty setup(e.g. toolset, checklist, note keeping, vps etc)
 
    1. ***2k\*2 (actually was a chain of 3 different bugs which led me to the total amount) - yeah, I know it's quite unfair but I worked mostly on VDPs lool***
 
-   2. ***I made a good description on my setup on https://huntr.dev/blog/ep-001-bug-huntr-mik-317*** 😊 ***Regarding note kipping, I limit myself to insert in a -> textual file the most important endpoints and information + eventual things which could be useful if I fund bug X (for example: self-XSS in page /XXX: if I found CSRF I can achieve stored-XSS without interaction on victim's account :)) - it's all about leveraging what you find***
+   2. ***I made a good description on my setup on https://huntr.dev/blog/ep-001-bug-huntr-mik-317*** 😊 ***Regarding note keeping, I limit myself to insert in a -> textual file the most important endpoints and information + eventual things which could be useful if I fund bug X (for example: self-XSS in page /XXX: if I found CSRF I can achieve stored-XSS without interaction on victim's account :)) - it's all about leveraging what you find***
 
  <br>
  
