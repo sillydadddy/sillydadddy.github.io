@@ -178,7 +178,7 @@ Which programming language do u think will be most useful for a beginner?
 
     - ***Open redirect to XSS is not always possible, it depends on the context(where our payload is getting reflected), in some cases something like this should work \`url=javascript:alert(1);\` [context: <a href=\"javascript:alert(1);\">click</a>]***
 
-    ![](../images/devansh ama example screenshot.png)
+    ![image](/images/devansh%20ama%20example%20screenshot.png?raw=true)
 
     - ***But you shouldn't report Open Redirects(when analyzed severity and impact on CVSS scale, the severity is almost negligible), Open redirects are great for chaining multiple bugs (say: SSRF/CSP Bypass)***
 
