@@ -196,7 +196,7 @@ q=' and sleep() -, pw=8&t=8-sleep()
 
  - How have you applied your javascript knowledge and translate that into award-winning vulns? :P
 
-   - ***Award-winning vulns*** 😂 ***Honestly it’s just with practice and actually building my web app in Node.js. I also learned a lot from [@TomNomNom](https://twitter.com/TomNomNom), [@filedescriptor](https://twitter.com/filedescriptor) & [@Corb3nik](https://twitter.com/Corb3nik) so shout out to them *** 👌
+   - ***Award-winning vulns*** 😂 ***Honestly it’s just with practice and actually building my web app in Node.js. I also learned a lot from [@TomNomNom](https://twitter.com/TomNomNom), [@filedescriptor](https://twitter.com/filedescriptor) & [@Corb3nik](https://twitter.com/Corb3nik) so shout out to them*** 👌
 
 <br>
 
