@@ -14,7 +14,7 @@ author: Ravi Shankar Gurram
 
  - Where do beginners learn CTF from which website, from which platform?
 
-   - ***There are different type of tasks in CTF. For example Reverse Engineering & Binary Exploitation. You can google for them. Both of them, for example, would require you to learn at least the basics of C-Programming. Just sign up for a CTF on http://ctftime.org***😃 ✌️
+   - ***There are different type of tasks in CTF. For example Reverse Engineering & Binary Exploitation. You can google for them. Both of them, for example, would require you to learn at least the basics of C-Programming. Just sign up for a CTF on http://ctftime.org*** 😃 ✌️
    
  <br>
 
@@ -36,7 +36,7 @@ author: Ravi Shankar Gurram
 
  - What are Minimum skills required to start in CTF? for example Linux, Ports, CVE search skills, etc...
 
-   - ***There is no such thing as minimum requirements in my opinion! But of course you should not start without a certain basic knowledge. Otherwise the journey could be much more difficult.***😬
+   - ***There is no such thing as minimum requirements in my opinion! But of course you should not start without a certain basic knowledge. Otherwise the journey could be much more difficult.*** 😬
 
    - ***In my opinion you should be familiar with Linux. Also it is beneficial to know the web basics and a programming language. But you do not have to master any of them! With every CTF you gain more and more experience and knowledge.***
   
