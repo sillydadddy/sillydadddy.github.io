@@ -10,7 +10,7 @@ author: Gurvinder Singh
 
 <br>
 
-## Senior AppSec Engineer [@Shutterstock](https://twitter.com/Shutterstock) :fire:, Founder of [@sakurasamuraii](https://twitter.com/sakurasamuraii) 💥, Author of Corporate Cybersecurity [@WileyGlobal](https://twitter.com/johnjhacking) :book:
+## Senior AppSec Engineer [@Shutterstock](https://twitter.com/Shutterstock) 🔥, Founder of [@sakurasamuraii](https://twitter.com/sakurasamuraii) 💥, Author of Corporate Cybersecurity [@WileyGlobal](https://twitter.com/johnjhacking) 📘
 
 <br>
 
