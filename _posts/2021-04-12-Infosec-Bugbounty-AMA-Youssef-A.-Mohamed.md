@@ -10,7 +10,7 @@ author: Gurvinder Singh
 
 <br>
 
-## Penetration Tester :fire: - Bug Bounty Hunter :beetle: - Acquired awesome collection of Certifications :page_with_curl: - Founder of [BuguardInc](https://buguard.io/) :sparkles:
+## Penetration Tester 🔥 - Bug Bounty Hunter 🐞 - Acquired awesome collection of Certifications 📃 - Founder of [BuguardInc](https://buguard.io/) ✨
 
 <br>
 
