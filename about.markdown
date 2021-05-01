@@ -13,5 +13,5 @@ After 8 years of being an ardent programmer(JAVA ) , I switched gears to cyber s
 
 I am excited to leverage my cross-domain knowledge and experience to resolve interesting problems.
 
-Twitter  :- (https://mobile.twitter.com/sillydadddy)
-LinkedIn :- (https://www.linkedin.com/in/kishore-k-pai)
+Twitter  :- [https://mobile.twitter.com/sillydadddy]
+LinkedIn :- [https://www.linkedin.com/in/kishore-k-pai]
