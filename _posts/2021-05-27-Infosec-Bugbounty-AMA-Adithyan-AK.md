@@ -89,3 +89,7 @@ author: Gurvinder Singh
  - If a beginner complete all the labs in portswigger lab then what should you suggest next?
 
    - ***Pentester lab's web exercises are awesome things to checkout next.***
+
+<br>
+
+#### The original twitter AMA can be found here :- <https://twitter.com/sillydadddy/status/1397831918138232832>
