@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Infosec Bugbounty AMA with Arif Khan"
+title:  "Infosec Bugbounty AMA with payloadartist"
 categories: infosec-bugbounty-ama
-excerpt : "AMA with Arif Khan"
+excerpt : "AMA with payloadartist"
 author: Gurvinder Singh
 ---
 
-# AMA with [Arif Khan](https://twitter.com/payloadartist)
+# AMA with [payloadartist](https://twitter.com/payloadartist)
 
 <br>
 
-## Hacker 🐱💻 | Pentester at [@Cobalt_io](https://cobalt.io/) 🔏 | Part of [@SynackRedTeam](https://www.synack.com/red-team/) & [@Detectify](https://detectify.com/) 🔥
+## Hacker 🐱💻  Part of [@SynackRedTeam](https://www.synack.com/red-team/) & [@Detectify](https://detectify.com/) 🔥
 
 <br>
 
